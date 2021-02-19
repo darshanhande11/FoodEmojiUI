@@ -1,7 +1,9 @@
 # FoodEmojiUI
 
 
-<img src="https://user-images.githubusercontent.com/8137504/73211386-24574e00-4172-11ea-92ee-91f31c5a3dfa.png" alt="Dashboard.png"></img>
-<img src="https://user-images.githubusercontent.com/8137504/73211388-24efe480-4172-11ea-9e3f-bf391725b515.png" alt="product.png"></img>
-<img src="https://user-images.githubusercontent.com/8137504/73211387-24574e00-4172-11ea-9430-dd602298d45a.png" alt="Cart&product.png"></img>
+<img src="assets/WhatsApp%20Image%202021-02-19%20at%206.28.31%20PM%20(2).jpeg"></img>
+<img src="assets/WhatsApp%20Image%202021-02-19%20at%206.28.30%20PM.jpeg" alt="Cart&product.png"></img>
+<img src="assets/WhatsApp%20Image%202021-02-19%20at%206.28.31%20PM.jpeg" alt="product.png"></img>
+<img src="assets/WhatsApp%20Image%202021-02-19%20at%206.28.31 PM%20(1).jpeg" alt="Cart&product.png"></img>
+
 
